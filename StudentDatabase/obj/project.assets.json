@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\missb\\.nuget\\packages\\": {}
+    "C:\\Users\\bblackmon\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\missb\\source\\repos\\StudentDatabase\\StudentDatabase\\StudentDatabase.csproj",
+      "projectUniqueName": "C:\\Users\\bblackmon\\source\\repos\\GrandCircus\\StudentDatabase\\StudentDatabase\\StudentDatabase.csproj",
       "projectName": "StudentDatabase",
-      "projectPath": "C:\\Users\\missb\\source\\repos\\StudentDatabase\\StudentDatabase\\StudentDatabase.csproj",
-      "packagesPath": "C:\\Users\\missb\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\missb\\source\\repos\\StudentDatabase\\StudentDatabase\\obj\\",
+      "projectPath": "C:\\Users\\bblackmon\\source\\repos\\GrandCircus\\StudentDatabase\\StudentDatabase\\StudentDatabase.csproj",
+      "packagesPath": "C:\\Users\\bblackmon\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\bblackmon\\source\\repos\\GrandCircus\\StudentDatabase\\StudentDatabase\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\missb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\bblackmon\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
